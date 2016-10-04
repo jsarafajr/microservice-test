@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "amqplib": "registry:npm/amqplib#0.4.1+20160726143451",
+    "express": "registry:npm/express#4.14.0+20160925001530"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20160928143418"
+  }
+}

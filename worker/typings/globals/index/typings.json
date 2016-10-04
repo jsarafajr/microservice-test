@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "/Users/jsarafajr/Workspace/tmp/docker-microservices-test-master/worker/typings/custom/googleapis/index.d.ts",
+    "raw": "file:typings/custom/googleapis/index.d.ts",
+    "typings": "/Users/jsarafajr/Workspace/tmp/docker-microservices-test-master/worker/typings/custom/googleapis/index.d.ts"
+  }
+}
