@@ -1,5 +1,5 @@
 import * as amqp from 'amqplib';
-const { getFilesList, getFileMetadata, getAuthClient } = require('./google-drive-connector');
+import { getFilesList, getFileMetadata, getAuthClient } from './google-drive-connector';
 
 const { RABBITMQ_URL } = process.env;
 
