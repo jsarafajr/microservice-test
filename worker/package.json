@@ -15,6 +15,6 @@
   "dependencies": {
     "amqplib": "^0.4.2",
     "bluebird": "^3.4.6",
-    "googleapis": "^13.0.0"
+    "googleapis": "^59.0.0"
   }
 }
